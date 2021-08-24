@@ -1,5 +1,5 @@
 # Tokyo 2020 Olympic Scraper
-![Header](https://github.com/xavier-lim/olympicsScraper/blob/main/images/Tokyo2020Olympics.jpg)
+![Header](https://github.com/xavier-lim/olympicsScraper/blob/main/images/TokyoOlympics.jpg)
  
 The purpose of this project is to scrape data from the Tokyo 2020 Olympics website using Selenium. After scraping the data, I will use Tableau to analyze and summarize the results of the Tokyo 2020 Olympics.
 
@@ -19,8 +19,8 @@ The purpose of this project is to scrape data from the Tokyo 2020 Olympics websi
 
  
 ## Data Source
-All the data for this project was scraped from [Tokyo 2020 Olympics Website](https://olympics.com/tokyo-2020/olympic-games/en/results/all-sports/medalists.htm).
-
+All the data for this project was scraped from the [Tokyo 2020 Olympics Website](https://olympics.com/tokyo-2020/olympic-games/en/results/all-sports/medalists.htm).
+![SourceWebsite](https://github.com/xavier-lim/olympicsScraper/blob/main/images/OlympicsWebsite.png)
  
 ## Scraped Data
 ![ScrapedData](https://github.com/xavier-lim/olympicsScraper/blob/main/images/ExcelOlympicsScraper.PNG)
