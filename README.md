@@ -23,7 +23,7 @@ All the data for this project was scraped from [Tokyo 2020 Olympics Website](htt
 
  
 ## Scraped Data
-![ScrapedData](https://github.com/xavier-lim/olympicsScraper/blob/master/images/ExcelOlympicsScraper.PNG)
+![ScrapedData](https://github.com/xavier-lim/olympicsScraper/blob/main/images/ExcelOlympicsScraper.PNG)
 
  
 ## Tableau Project Dashboard
