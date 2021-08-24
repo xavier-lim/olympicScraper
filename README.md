@@ -20,6 +20,7 @@ The purpose of this project is to scrape data from the Tokyo 2020 Olympics websi
  
 ## Data Source
 All the data for this project was scraped from the [Tokyo 2020 Olympics Website](https://olympics.com/tokyo-2020/olympic-games/en/results/all-sports/medalists.htm).
+ 
 ![SourceWebsite](https://github.com/xavier-lim/olympicsScraper/blob/main/images/OlympicsWebsite.png)
  
 ## Scraped Data
