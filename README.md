@@ -28,7 +28,9 @@ All the data for this project was scraped from the [Tokyo 2020 Olympics Website]
 
  
 ## Tableau Project Dashboard
-*Coming Soon*
+[Interactive Dashboard](https://public.tableau.com/app/profile/xavier.lim/viz/Tokyo2020OlympicMedalists/Dashboard1)
+ 
+![Dashboard](https://github.com/xavier-lim/olympicsScraper/blob/main/images/Dashboard.PNG)
 
  
 ## Author
